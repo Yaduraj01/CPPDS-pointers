@@ -13,6 +13,10 @@ Here's an algorithm for your C++ code that demonstrates the use of pointers:
 6. Print the memory address of `i` using `&i`.
 7. Print the value stored in `int_ptr`, which represents the memory address of `i`.
 
+### Output
+![image](https://github.com/Yaduraj01/CPPDS-pointers/assets/110488113/547220cc-9d97-449f-8a0f-e59ecf10d43a)
+
+
 ## Algorithm - Code 2
 Certainly, here's a more detailed algorithm for your C++ code that uses a "call by value" approach to swap two variables:
 1. Declare two integer variables `i` and `j`.
@@ -26,5 +30,9 @@ Certainly, here's a more detailed algorithm for your C++ code that uses a "call 
     d. Update the value pointed to by `n` (the memory address of `j`) with the value stored in `tmp`. This assigns the original value of `i` (stored in `tmp`) to `j`.
 6. Return from the `swap` function.
 7. Display the values of `i` and `j after swapping to the user.
+
+### Output
+![image](https://github.com/Yaduraj01/CPPDS-pointers/assets/110488113/6db94387-4079-4185-b1b3-350b8f8666f8)
+
 
 
