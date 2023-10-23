@@ -3,7 +3,7 @@
 Pointers in C++ are variables that store memory addresses. They allow you to work directly with memory and data, including dynamic memory allocation. You can access and modify data at specific memory locations, but they require careful handling to avoid errors like memory leaks and segmentation faults.
 In the given codes we have demonstrated these things.
 
-##Algorithm - Code 1
+## Algorithm - Code 1
 Here's an algorithm for your C++ code that demonstrates the use of pointers:
 1. Declare integer variable `i`, floating-point variable `fl`, and pointers `int_ptr` (integer pointer), `flt_ptr` (float pointer), and `chr_ptr` (character pointer).
 2. Assign the value `5` to `i`.
@@ -13,7 +13,7 @@ Here's an algorithm for your C++ code that demonstrates the use of pointers:
 6. Print the memory address of `i` using `&i`.
 7. Print the value stored in `int_ptr`, which represents the memory address of `i`.
 
-##Algorithm - Code 2
+## Algorithm - Code 2
 Certainly, here's a more detailed algorithm for your C++ code that uses a "call by value" approach to swap two variables:
 1. Declare two integer variables `i` and `j`.
 2. Assign the value `2` to `i` and `3` to `j`.
